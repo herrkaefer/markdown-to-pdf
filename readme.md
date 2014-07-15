@@ -1,6 +1,6 @@
 # Description
 
-transform markdown to pdf. LaTeX & Chinese support.
+Simple scripts for transforming markdown to pdf using [pandoc](johnmacfarlane.net/pandoc/). Modify the TeX template (found somewhere on the web) to support Chinese.
 
 
 # Usage
