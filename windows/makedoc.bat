@@ -1,0 +1,1 @@
+pandoc %1 -o %~pn1.pdf --latex-engine=xelatex --template=%~dp0..\latex_template.tex -N  -V documentclass=article -V fontsize=10pt -s --highlight-style tango
