@@ -2,15 +2,16 @@
 
 transform markdown to pdf. LaTeX & Chinese support.
 
+
 # Usage
 
-Under windows:
+Under windows, put directory "windows" in system path.
 
-markdown to article
+markdown to article:
 
 	makedoc markdown_file.md
 
-markdwon to slide
+markdwon to slide:
 
 	makeslide markdown_file.md
 
